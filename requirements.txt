@@ -1,0 +1,7 @@
+cython
+wheel
+ipykernel
+pandas
+psycopg2
+sqlalchemy
+
