@@ -1,6 +1,6 @@
 # Import NYC Taxi into a docker of PostgreSQL
 
-download the NYC Taxi rides from this link into the data directory
+download and extract the NYC Taxi rides data from this link into the data directory
 https://docs.timescale.com/timescaledb/latest/tutorials/nyc-taxi-cab/#main-content
 
 launch a postgreSQL docker 
